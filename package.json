@@ -1,0 +1,15 @@
+{
+  "name": "wechat_add_contact_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sleepjs": "^4.0.3",
+    "webdriverio": "^7.19.1"
+  }
+}
